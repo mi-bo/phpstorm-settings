@@ -1,0 +1,73 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://m.bothe@stash.gfk.com/scm/ldm/ldm-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://m.bothe@stash.gfk.com/scm/ldm/ldm-commons.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://m.bothe@stash.gfk.com/scm/ldm/ldm-configurations.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://m.bothe@stash.gfk.com/scm/ldm/ldm-documentation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://m.bothe@stash.gfk.com/scm/ldm/ldm-fixed-adapter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://m.bothe@stash.gfk.com/scm/ldm/ldm-log-processor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://m.bothe@stash.gfk.com/scm/ldm/ldm-mobile-adapter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://m.bothe@stash.gfk.com/scm/ldm/ldm-qa.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://m.bothe@stash.gfk.com/scm/ldm/ldm-qa-tool.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://m.bothe@stash.gfk.com/scm/ldm/ldm-sdk-php.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://m.bothe@stash.gfk.com/scm/ldm/ldm-tools.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://m.bothe@stash.gfk.com/scm/ldm/ldm-ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://m.bothe@stash.gfk.com/scm/ldm/ldm-vagrant.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://m.bothe@stash.gfk.com/scm/ldm/ltw-backend-tests.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://phabricator@phabricator.intern.neusta.de:40022/diffusion/MOODVOTES/mood-votes.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://phabricator@phabricator.intern.neusta.de:40022/diffusion/KATAQUICK/kata-quickstarter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="D:\projects" />
+  </component>
+</application>
