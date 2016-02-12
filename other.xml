@@ -50,4 +50,7 @@
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="D:/apps/nodejs/node.exe" version="4.2.2" last-modified="1446577322000" />
   </component>
+  <component name="PhpRefactoringSettings">
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
+  </component>
 </application>
